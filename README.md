@@ -11,7 +11,7 @@ My expected PhD topic is Lattice QCD, starting in autumn 2026.
 Till that I am planning to work and engage in content creation.
 
 ### 🔰 Miscellaneous
-- 🔭 I’m currently working on a new model in non-perturbative QCD, with the calculation methods of Dilaton Chiral Perturbation Theory.
+- 🔭 I’m currently working on a new EFT model in non-perturbative QCD, with the calculation methods of Dilaton Chiral Perturbation Theory.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💬 You can ask me about Physics, Maths or Linux.
