@@ -64,5 +64,5 @@ I am mostly using Arch Linux based Linux distributions, but I am also familiar w
 - Linguistics
 - Gaming
 
-...oh and, almost forgot
+...oh and, almost forgot:
 *I use Arch btw*
