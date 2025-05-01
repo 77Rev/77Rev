@@ -8,7 +8,7 @@ I have a discord server, called Pixel Science (you can find it on Disboard.org, 
 and I'm planning to create a TikTok channel where I will post Physics, Maths and Linux related content.
 
 My expected PhD topic is Lattice QCD, starting in autumn 2026.
-Till that I am planning on working, and engaging in content creation.
+Till that I am planning to work and engage in content creation.
 
 ### 🔰 Miscellaneous
 - 🔭 I’m currently working on a new model in non-perturbative QCD, with the calculation methods of Dilaton Chiral Perturbation Theory.
