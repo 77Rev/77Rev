@@ -15,7 +15,8 @@ Till that I am planning on working, and engaging in content creation.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💬 You can ask me about Physics, Maths or Linux.
-- 📫 You can reach me on discord: 77rev
+- 📫 You can reach me on Discord: 77rev
+- 📫 You can reach me on Matrix: 77apollyon:matrix.org
 - 😄 Pronouns: he/him
 - 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
 - 🧲 Fun fact 2: I'm into gaming, e.g. I play World of Warships and WARNO.
