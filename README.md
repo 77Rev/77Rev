@@ -17,7 +17,8 @@ Till that I am planning on working, and engaging in content creation.
 - 💬 You can ask me about Physics, Maths or Linux.
 - 📫 You can reach me on discord: 77rev
 - 😄 Pronouns: he/him
-- 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
+- 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
+- 🧲 Fun fact 2: I'm into gaming, e.g. I play World of Warships and WARNO.
 
 ### 👾 Hobbies
 - Cybersecurity: information security and defensive cybersecurity in particular.
@@ -51,3 +52,13 @@ I am mostly using Arch Linux based Linux distributions, but I am also familiar w
 - Beyond-Standard Model theories (e.g. composite Higgs, dark sectors, string theory)
 - Standard Model theory & phenomenology
 - Exactly Solvable Quantum Systems
+
+### 🧰 Other interests
+- Philosophy
+- Psychology
+- Geography
+- Travelling
+- Hiking
+- Writing
+- Linguistics
+- Gaming
