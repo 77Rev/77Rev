@@ -20,6 +20,7 @@ Till that I am planning to work and engage in content creation.
 - 😄 Pronouns: he/him
 - 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
 - 🧲 Fun fact 2: I'm into gaming, e.g. I play World of Warships and WARNO.
+- 🧲 Fun fact 3: I love SCP and the related lore.
 
 ### 👾 Hobbies
 - Cybersecurity: information security and defensive cybersecurity in particular.
