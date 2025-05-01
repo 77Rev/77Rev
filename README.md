@@ -4,8 +4,8 @@
 I'm an MSc physics student, specialising in theoretical particle physics.
 My expected graduation date is June 2025.
 
-I have a discord server, called Pixel Science (you can find it on Disboard.org, STEM keyword),
-and I'm planning to create a TikTok channel where I will post Physics, Maths and Linux related content.
+I have a discord server, called Pixel Science (you can find it on Disboard.org, STEM keyword).
+After graduation, I will create a TikTok channel where I will post Physics, Maths and Linux related content.
 
 My expected PhD topic is Lattice QCD, starting in autumn 2026.
 Till that I am planning to work and engage in content creation.
