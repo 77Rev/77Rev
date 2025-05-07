@@ -5,18 +5,19 @@ I'm an MSc physics student, specialising in theoretical particle physics.
 My expected graduation date is June 2025.
 
 I have a discord server, called Pixel Science (you can find it on Disboard.org, STEM keyword).
-After graduation, I will create a TikTok channel where I will post Physics, Maths and Linux related content.
 
-My expected PhD topic is Lattice QCD, starting in autumn 2026.
-Till that I am planning to work and engage in content creation.
+My expected PhD topic related to Lattice Field Theory, more specifically to Lattice QCD.
+I will begin the PhD studies in autumn 2026, till that I am planning to work and engage in content creation.
 
 ### 🔰 Miscellaneous
 - 🔭 I’m currently working on a new EFT model in non-perturbative QCD, using the calculation methods of Dilaton Chiral Perturbation Theory.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
+- 💻 I use Arch Linux and CachyOS currently, but I am also familiar with Alpine Linux and Debian based distros. 
 - 💬 You can ask me about Physics, Maths or Linux.
 - 📫 You can reach me on Discord: 77rev
 - 📫 You can reach me on Matrix: 77apollyon:matrix.org
+- 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
 - 😄 Pronouns: he/him
 - 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
 - 🧲 Fun fact 2: I'm into gaming, e.g. I play World of Warships and WARNO.
@@ -34,8 +35,6 @@ Till that I am planning to work and engage in content creation.
 - Rust (beginner)
 - Assembly (beginner)
 - HTML (beginner)
-
-I am mostly using Arch Linux based Linux distributions, but I am also familiar with Debian based systems and Alpine Linux.
 
 ### 📖 Languages
 - Hungarian (native)
