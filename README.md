@@ -53,7 +53,7 @@ My main programming language is Python (via Jupyter Notebook).
 - CFTs and Near-Conformal Dynamics
 - Non-perturbative QCD and Effective Field Theories (e.g. ChPT, dChPT)
 - Beyond-Standard Model theories (e.g. composite Higgs, dark sectors, string theory)
-- Standard Model theory & phenomenology
+- Standard Model theory
 - Exactly Solvable Quantum Systems
 
 ### 🧰 Other interests
