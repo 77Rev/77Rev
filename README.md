@@ -36,7 +36,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - Assembly (beginner)
 - HTML (beginner)
 
-My main programming language is Python, especially in Jupyter Notebooks.
+My main programming language is Python (via Jupyter Notebook).
 
 ### 📖 Languages
 - Hungarian (native)
