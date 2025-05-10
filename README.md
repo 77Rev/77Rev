@@ -32,6 +32,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - C/C++
 - Python
 - LaTeX
+- ROOT (in C++ framework)
 - Rust (beginner)
 - Assembly (beginner)
 - HTML (beginner)
