@@ -4,7 +4,7 @@
 I'm an MSc physics student, specialising in theoretical particle physics.
 My expected graduation date is June 2025.
 
-I have a discord server, called Pixel Science (you can find it on Disboard.org, STEM keyword).
+I have a discord server, called Pixel Science (you can find it on Disboard.org, Science keyword).
 
 My expected PhD topic is related to Lattice Field Theory, more specifically to Lattice QCD.
 I will begin the PhD studies in autumn 2026, till that I am planning to work and engage in content creation.
