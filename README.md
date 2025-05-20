@@ -13,7 +13,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - 🔭 I’m currently working on a new EFT model in non-perturbative QCD, using the calculation methods of Dilaton Chiral Perturbation Theory.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
-- 💻 I use Arch Linux and CachyOS currently, but I am also familiar with Alpine Linux and Debian based distros. 
+- 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
 - 💬 You can ask me about Physics, Maths or Linux.
 - 📫 You can reach me on Discord: 77rev
 - 📫 You can reach me on Matrix: 77apollyon:matrix.org
