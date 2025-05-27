@@ -24,8 +24,8 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - 🧲 Fun fact 3: I love the SCP universe and the related lore.
 
 ### 👾 Hobbies
-- Cybersecurity: information security and defensive cybersecurity in particular.
-- Worldbuilding
+- Cybersecurity: information security, defensive & offensive cybersecurity
+- Worldbuilding (I am also planning on writing books based on it in the future)
 
 ### 💾 Technical Skills
 - Bash
