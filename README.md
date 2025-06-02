@@ -10,7 +10,7 @@ My expected PhD topic is related to Lattice Field Theory, more specifically to L
 I will begin the PhD studies in autumn 2026, till that I am planning to work and engage in content creation.
 
 ### 🔰 Miscellaneous
-- 🔭 I’m currently working on a new EFT model in non-perturbative QCD, using the calculation methods of Dilaton Chiral Perturbation Theory.
+- 🔭 I’m currently working on a new, general EFT model in non-perturbative QCD. It is an extension of ChPT with an light scalar particle using the most general form of coupling.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
@@ -47,7 +47,7 @@ My main programming language is Python (via Jupyter Notebook).
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
-- MSc in Physics | 2023-2025 | Thesis: Pion-Dilaton Coupled Effective Field Theory
+- MSc in Physics | 2023-2025 | Thesis: Pion-Scalar Coupled Effective Field Theory
 
 ### 📡 Research Interests
 - Lattice Field Theories
