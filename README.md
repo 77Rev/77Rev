@@ -52,7 +52,11 @@ My main programming language is Python (via Jupyter Notebook).
 ### 📡 Research Interests
 - Lattice Field Theories
 - CFTs and Near-Conformal Dynamics
-- Non-perturbative QCD and Effective Field Theories (e.g. ChPT, dChPT)
+- Non-perturbative QCD, QCD, QED
+- Non-Abelian Gauge Theories
+- Effective Field Theories (e.g. ChPT, dChPT)
+- Abelian Gauge Theories
+- Renormalizability of QFTs
 - Beyond-Standard Model theories (e.g. composite Higgs, dark sectors, string theory)
 - Standard Model theory
 - Exactly Solvable Quantum Systems
