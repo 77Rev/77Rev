@@ -15,7 +15,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
 - 💬 You can ask me about Physics, Maths or Linux.
-- 📫 You can reach me on Discord: 77rev
+- 📫 Mainly you can reach me on Discord: 77rev
 - 📫 You can reach me on Matrix: 77apollyon:matrix.org
 - 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
 - 😄 Pronouns: he/him
