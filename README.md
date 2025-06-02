@@ -10,7 +10,7 @@ My expected PhD topic is related to Lattice Field Theory, more specifically to L
 I will begin the PhD studies in autumn 2026, till that I am planning to work and engage in content creation.
 
 ### 🔰 Miscellaneous
-- 🔭 For my MSc thesis I constructed a new, general EFT model for non-Abelian gauge theory with many (N_f > 6) fermions. It is an extension of ChPT with an light scalar particle using the most general form of coupling.
+- 🔭 For my MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions. It is an extension of ChPT with an light scalar particle using the most general form of coupling.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
