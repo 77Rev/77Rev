@@ -17,6 +17,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - 💬 You can ask me about Physics, Maths or Linux.
 - 📫 Mainly you can reach me on Discord: 77rev
 - 📫 You can also reach me on Matrix: 77apollyon:matrix.org
+- 📫 My Stack Exchange username is 77Hei
 - 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
 - 😄 Pronouns: he/him
 - 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
