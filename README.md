@@ -61,7 +61,7 @@ For now my main programming language is Python (via Jupyter Notebook).
 
 ### 🔰 Miscellaneous
 - 😄 Pronouns: he/him
-- 💻 Currently I use only Arch Linux, and I am also familiar with Alpine Linux and Debian based distros.
+- 💻 Currently I use Arch Linux, and I am also familiar with Alpine Linux and Debian based distros.
 - 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
 - 💬 You can ask me about Physics, Maths or Linux.
 - 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
