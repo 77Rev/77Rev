@@ -11,6 +11,7 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 
 ### 🔰 Miscellaneous
 - 🔭 For my MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions. It is an extension of ChPT with an light scalar particle using the most general form of coupling.
+- 🌱 I’m currently learning how to use Rivet and Pythia (among other things) for proton-proton and heavy ion collision data analysis.
 - 🌱 I’m currently learning Lattice Field Theory and String Theory.
 - 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
 - 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
@@ -42,7 +43,7 @@ My main programming language is Python (via Jupyter Notebook).
 
 ### 📖 Languages
 - Hungarian (native)
-- English (C2)
+- English (C1)
 - German (beginner)
 - Russian (beginner)
 
