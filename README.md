@@ -10,9 +10,9 @@ My expected PhD topic is focused on Lattice Field Theory, particularly Lattice Q
 I will begin the PhD studies in autumn 2026. In the meantime I will work and engage in content creation.
 
 ### 🚧 In progress
-- 📦 Learning Rivet and Pythia8 for proton-proton and heavy-ion collision analysis.
+- 📦 Learning [Rivet](https://rivet.hepforge.org/) and [Pythia8](https://pythia.org/) for proton-proton and heavy-ion collision analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
-- 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (via Blackarch & Kali)
+- 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (via [Blackarch](https://www.blackarch.org/wiki.html) & [Kali](https://www.kali.org/))
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
 
 ### 📫 Contact
@@ -61,7 +61,7 @@ For now my main programming language is Python (via Jupyter Notebook).
 
 ### 🔰 Miscellaneous
 - 😄 Pronouns: he/him
-- 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros.
+- 💻 Currently I use only Arch Linux, and I am also familiar with Alpine Linux and Debian based distros.
 - 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
 - 💬 You can ask me about Physics, Maths or Linux.
 - 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
@@ -69,7 +69,7 @@ For now my main programming language is Python (via Jupyter Notebook).
 ### 🎯 Other personal Interests
 - Writing & Worldbuilding (future book plans)
 - Gaming (World of Warships, WARNO, Civ VI, etc.)
-- SCP Universe & lore
+- [SCP Universe & lore](https://scp-wiki.wikidot.com/)
 - Philosophy
 - Psychology
 - Geography
