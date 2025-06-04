@@ -6,28 +6,25 @@ My expected graduation date is June 2025.
 
 I have a discord server, called Pixel Science (you can find it on Disboard.org, Science keyword).
 
-My expected PhD topic is related to Lattice Field Theory, more specifically to Lattice QCD.
-I will begin the PhD studies in autumn 2026, till that I am planning to work and engage in content creation.
+My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
+I will begin the PhD studies in autumn 2026. In the meantime I will work and engage in content creation.
 
-### 🔰 Miscellaneous
-- 🔭 For my MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions. It is an extension of ChPT with an light scalar particle using the most general form of coupling.
-- 🌱 I’m currently learning how to use Rivet and Pythia (among other things) for proton-proton and heavy ion collision data analysis.
-- 🌱 I’m currently learning Lattice Field Theory and String Theory.
-- 💻 I'm learning the following programming languages (whenever I have time): Rust, Assembly, HTML.
-- 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros. 
-- 💬 You can ask me about Physics, Maths or Linux.
+### 🚧 In progress
+- 📦 Learning Rivet and Pythia8 for proton-proton and heavy-ion collision analysis.
+- 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
+- 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (via Blackarch & Kali)
+- 💻 Learning: Rust, Assembly and HTML (when time allows).
+
+### 📫 Contact
 - 📫 Mainly you can reach me on Discord: 77rev
 - 📫 You can also reach me on Matrix: 77apollyon:matrix.org
-- 📫 My Stack Exchange username is 77Hei
-- 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
-- 😄 Pronouns: he/him
-- 🧲 Fun fact 1: When I was 14, I participated in a country level astronomy competition and finished 2nd.
-- 🧲 Fun fact 2: I'm into gaming, e.g. I play World of Warships and WARNO.
-- 🧲 Fun fact 3: I love the SCP universe and the related lore.
 
-### 👾 Hobbies
-- Cybersecurity: information security, defensive & offensive cybersecurity
-- Worldbuilding (I am also planning on writing books based on it in the future)
+### 🔭 Educational background
+- BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
+- MSc in Physics | 2023-2025 | Thesis: Pion-Scalar Coupled Effective Field Theory
+
+For the MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions.
+It is an extension of ChPT with a light scalar particle using the most general form of coupling.
 
 ### 💾 Technical Skills
 - Bash
@@ -39,17 +36,13 @@ I will begin the PhD studies in autumn 2026, till that I am planning to work and
 - Assembly (beginner)
 - HTML (beginner)
 
-My main programming language is Python (via Jupyter Notebook).
+For now my main programming language is Python (via Jupyter Notebook).
 
 ### 📖 Languages
-- Hungarian (native)
-- English (C1)
-- German (beginner)
-- Russian (beginner)
-
-### 🔭 Educational background
-- BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
-- MSc in Physics | 2023-2025 | Thesis: Pion-Scalar Coupled Effective Field Theory
+- 🇭🇺 Hungarian (native)
+- 🇬🇧 English (C1)
+- 🇷🇺 Russian (beginner)
+- 🇩🇪 German (beginner)
 
 ### 📡 Research Interests
 - Lattice Field Theories
@@ -66,15 +59,25 @@ My main programming language is Python (via Jupyter Notebook).
 - Exactly Solvable Quantum Systems
 - Heavy Ion Physics
 
-### 🧰 Other interests
+### 🔰 Miscellaneous
+- 😄 Pronouns: he/him
+- 💻 I use Arch Linux currently, but I am also familiar with Alpine Linux and Debian based distros.
+- 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
+- 💬 You can ask me about Physics, Maths or Linux.
+- 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
+
+### 🎯 Other personal Interests
+- Writing & Worldbuilding (future book plans)
+- Gaming (World of Warships, WARNO, Civ VI, etc.)
+- SCP Universe & lore
 - Philosophy
 - Psychology
 - Geography
 - Travelling
 - Hiking
-- Writing
 - Linguistics
-- Gaming
+
 
 ...oh and, almost forgot:
+
 *I use Arch btw*
