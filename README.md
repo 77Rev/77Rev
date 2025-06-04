@@ -12,7 +12,7 @@ I will begin the PhD studies in autumn 2026. In the meantime I will work and eng
 ### 🚧 In progress
 - 📦 Learning [Rivet](https://rivet.hepforge.org/) and [Pythia](https://pythia.org/) for proton-proton and heavy-ion collision data analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
-- 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (via [Blackarch](https://www.blackarch.org/wiki.html) & [Kali](https://www.kali.org/))
+- 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (I use [Blackarch](https://www.blackarch.org/wiki.html) and sometimes [Kali](https://www.kali.org/))
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
 
 ### 📫 Contact
