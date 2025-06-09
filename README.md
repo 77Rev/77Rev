@@ -1,7 +1,7 @@
 # Welcome 👋
 
 ## 🌱 About me
-I'm an MSc physics student, specialising in theoretical particle physics.
+I'm an MSc physics student (23M), specialising in theoretical particle physics.
 My expected graduation date is June 2025.
 
 I have a discord server, called Pixel Science (you can find it on Disboard.org, Science keyword).
