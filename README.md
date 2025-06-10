@@ -48,13 +48,15 @@ For now my main programming language is Python (via Jupyter Notebook).
 - Lattice Field Theories
 - CFTs and Near-Conformal Dynamics
 - Quantum Field Theories (QED, QCD)
+- Topological Quantum Field Theories
 - Strong Field QED
 - QCD and non-perturbative QCD
 - Non-Abelian Gauge Theories
 - Effective Field Theories (e.g. ChPT, dChPT)
 - Abelian Gauge Theories
 - Renormalizability of QFTs
-- Beyond-Standard Model theories (e.g. composite Higgs, dark sectors, string theory)
+- Beyond-Standard Model theories (e.g. composite Higgs, dark sectors)
+- String theory & M-theory
 - Standard Model theory
 - Exactly Solvable Quantum Systems
 - Heavy Ion Physics
