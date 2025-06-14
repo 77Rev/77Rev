@@ -10,7 +10,7 @@ My expected PhD topic is focused on Lattice Field Theory, particularly Lattice Q
 I will begin the PhD studies in autumn 2026. In the meantime I will work and engage in content creation.
 
 ### 🚧 In progress
-- 📦 Learning [Rivet](https://rivet.hepforge.org/) and [Pythia](https://pythia.org/). I need it for proton-proton and heavy-ion collision even generation & data analysis.
+- 📦 Learning [Rivet](https://rivet.hepforge.org/) and [Pythia](https://pythia.org/). I need it for proton-proton and heavy-ion collision MC event generation & data analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (I use [Blackarch](https://www.blackarch.org/wiki.html) and sometimes [Kali](https://www.kali.org/))
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
