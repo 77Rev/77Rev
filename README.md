@@ -4,7 +4,7 @@
 I'm an MSc physics student (23M), specialising in theoretical particle physics.
 My expected graduation date is June 2025.
 
-I have a discord server, which is STEM focused. You may contact me on discord to ask for an invite.
+I have a STEM focused discord server. You may contact me on discord to ask for an invite.
 
 My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
 I will begin the PhD studies in autumn 2026. In the meantime I will work and engage in content creation.
