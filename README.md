@@ -1,7 +1,7 @@
 # Welcome 👋
 
 ## 🌱 About me
-I am an assistant researcher. My specialisation is mostly theoretical particle physics,
+I'm a research assistant. My specialisation is mostly theoretical particle physics,
 my current research area is related to heavy ion collisions.
 
 I have a STEM focused discord server. You may contact me on discord to ask for an invite.
