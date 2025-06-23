@@ -1,13 +1,13 @@
 # Welcome 👋
 
 ## 🌱 About me
-I'm an MSc physics student (23M), specialising in theoretical particle physics.
-My expected graduation date is June 2025.
+I am an assistant researcher. My specialisation is mostly theoretical particle physics,
+my current research area is related to heavy ion collisions.
 
 I have a STEM focused discord server. You may contact me on discord to ask for an invite.
 
 My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
-I will begin the PhD studies in autumn 2026. In the meantime I will work and engage in content creation.
+In the meantime I will work and engage in content creation.
 
 ### 🚧 In progress
 - 📦 Learning [Rivet](https://rivet.hepforge.org/) and [Pythia](https://pythia.org/). I need it for proton-proton and heavy-ion collision MC event generation & data analysis.
@@ -17,7 +17,6 @@ I will begin the PhD studies in autumn 2026. In the meantime I will work and eng
 
 ### 📫 Contact
 - 📫 Mainly you can reach me on Discord: 77rev
-- 📫 You can also reach me on Matrix: 77apollyon:matrix.org
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
