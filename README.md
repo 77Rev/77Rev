@@ -16,7 +16,7 @@ In the meantime I will work and engage in content creation.
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
 
 ### 📫 Contact
-- 📫 Mainly you can reach me on Discord: 77rev
+- 📫 You can reach me on Matrix: @77apollyon:matrix.org
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
