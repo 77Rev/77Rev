@@ -4,7 +4,7 @@
 I'm a research assistant. My specialisation is mostly theoretical particle physics,
 my current research area is related to heavy ion collisions.
 
-I have a STEM focused discord server. You may contact me on discord to ask for an invite.
+I have a STEM focused discord server. You may contact me to ask for an invite.
 
 My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
 In the meantime I will work and engage in content creation.
