@@ -30,6 +30,7 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - C/C++
 - Python
 - LaTeX
+- Pythia8 (in C++)
 - ROOT (in C++ framework)
 - Rust (beginner)
 - Assembly (beginner)
