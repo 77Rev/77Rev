@@ -7,7 +7,7 @@ my current research area is related to heavy ion collisions.
 My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
 In the meantime I will work and engage in content creation.
 
-Check out my Docker Hub repos [here](https://hub.docker.com/repositories/77rev)!
+Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 
 ### 🚧 In progress
 - 📦 Learning [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/) and [Professor](https://professor.hepforge.org/) (among other things) for proton-proton and heavy-ion collision MC event generation & data analysis.
