@@ -15,10 +15,12 @@ In the meantime I will work and engage in content creation.
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
-- MSc in Physics | 2023-2025 | Thesis: Pion-Scalar Coupled Effective Field Theory
+- MSc in Physics | 2023-2026 | Thesis: Pion-Scalar Coupled Effective Field Theory
 
 For the MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions.
 It is an extension of ChPT with a light scalar particle using the most general form of coupling.
+
+I will have my final exam in 2026 January or February. It got delayed due to administrative issues.
 
 ### 💾 Technical Skills
 - Bash
@@ -58,7 +60,7 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - 😄 Pronouns: he/him
 - ✒️ I have a STEM focused Discord server.
 - 💻 Currently I use Arch Linux, and I am also familiar with Alpine Linux and Debian based distros.
-- 📜 My plan for the near future is to create a TikTok channel and post Physics, Maths and Linux related content.
+- 📜 My plan for the near future is to create a TikTok & Odysee channel and post Physics, Maths and Linux related content.
 - 💬 You can ask me about Physics, Maths or Linux.
 - 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
 
