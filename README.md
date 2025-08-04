@@ -10,13 +10,10 @@ My expected PhD topic is focused on Lattice Field Theory, particularly Lattice Q
 In the meantime I will work and engage in content creation.
 
 ### 🚧 In progress
-- 📦 Learning [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/), [Professor](https://professor.hepforge.org/) and HIJING++ for proton-proton and heavy-ion collision MC event generation & data analysis.
+- 📦 Learning [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/) and [Professor](https://professor.hepforge.org/) (among other things) for proton-proton and heavy-ion collision MC event generation & data analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (I use [Blackarch](https://www.blackarch.org/wiki.html) and sometimes [Kali](https://www.kali.org/))
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
-
-### 📫 Contact
-- 📫 You can reach me on Matrix: @77apollyon:matrix.org
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
@@ -35,8 +32,6 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - Rust (beginner)
 - Assembly (beginner)
 - HTML (beginner)
-
-For now my main programming language is Python (via Jupyter Notebook).
 
 ### 📖 Languages
 - 🇭🇺 Hungarian (native)
@@ -70,7 +65,7 @@ For now my main programming language is Python (via Jupyter Notebook).
 
 ### 🎯 Other personal Interests
 - Writing & Worldbuilding (future book plans)
-- Gaming (World of Warships, WARNO, Civ VI, etc.)
+- Gaming (World of Warships, WARNO, Civ VI, Paradox Interactive games, etc.)
 - [SCP Universe & lore](https://scp-wiki.wikidot.com/)
 - Philosophy
 - Psychology
