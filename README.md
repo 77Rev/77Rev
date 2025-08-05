@@ -10,7 +10,7 @@ In the meantime I will work and engage in content creation.
 Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 
 ### 🚧 In progress
-- 📦 Learning [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/) and [Professor](https://professor.hepforge.org/) (among other things) for proton-proton and heavy-ion collision MC event generation & data analysis.
+- 📦 Using [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/) and [Professor](https://professor.hepforge.org/) (among other things) for proton-proton and heavy-ion collision MC event generation & data analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (when time allows).
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
@@ -30,6 +30,8 @@ I will have my final exam in 2026 January or February. It got delayed due to adm
 - Python
 - LaTeX
 - Pythia8 (in C++)
+- Rivet
+- Professor
 - ROOT (in C++ framework)
 - Rust (beginner)
 - Assembly (beginner)
