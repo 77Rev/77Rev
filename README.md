@@ -32,6 +32,7 @@ I will have my final exam in 2026 January or February. It got delayed due to adm
 - Pythia8 (in C++)
 - Rivet
 - Professor
+- Docker
 - ROOT (in C++ framework)
 - Rust (beginner)
 - Assembly (beginner)
