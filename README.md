@@ -22,7 +22,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 For the MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions.
 It is an extension of ChPT with a light scalar particle using the most general form of coupling.
 
-I will have my final exam in 2026 January or February. It got delayed due to administrative issues.
+I will have my final exam in 2026 January or February.
 
 ### 💾 Technical Skills
 - Bash
