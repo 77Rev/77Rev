@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 I'm a research assistant. My specialisation is mostly theoretical particle physics,
-my current research area is related to heavy ion collisions.
+my current research area is related to heavy ion physics (simulations).
 
 My expected PhD topic is focused on Lattice Field Theory, particularly Lattice QCD.
 In the meantime I will work and engage in content creation.
@@ -10,7 +10,6 @@ In the meantime I will work and engage in content creation.
 Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 
 ### 🚧 In progress
-- 📦 Using [Rivet](https://rivet.hepforge.org/), [Pythia](https://pythia.org/) and [Professor](https://professor.hepforge.org/) (among other things) for proton-proton and heavy-ion collision MC event generation & data analysis.
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (when time allows).
 - 💻 Learning: Rust, Assembly and HTML (when time allows).
