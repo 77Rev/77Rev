@@ -28,9 +28,9 @@ I will have my final exam in 2026 January or February.
 - C/C++
 - Python
 - LaTeX
-- Pythia8 (in C++)
-- Rivet
-- Professor
+- [Pythia8](https://pythia.org/) (in C++)
+- [Rivet](https://rivet.hepforge.org/)
+- [Professor](https://professor.hepforge.org/)
 - Docker
 - ROOT (in C++ framework)
 - Rust (beginner)
@@ -72,6 +72,7 @@ I will have my final exam in 2026 January or February.
 - Writing & Worldbuilding (future book plans)
 - Gaming (World of Warships, WARNO, Civ VI, Paradox Interactive games, etc.)
 - [SCP Universe & lore](https://scp-wiki.wikidot.com/)
+- Computer Science
 - Philosophy
 - Psychology
 - Geography
