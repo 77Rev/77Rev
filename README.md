@@ -30,7 +30,6 @@ I will have my final exam in 2026 January or February.
 - Docker
 - ROOT (in C++ framework)
 - Rust (beginner)
-- Assembly (beginner)
 - HTML (beginner)
 
 ### 📖 Languages
