@@ -8,7 +8,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 ### 🚧 In progress
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity: information security, defensive & offensive cybersecurity (when time allows).
-- 💻 Learning: Rust, Assembly and HTML (when time allows).
+- 💻 Learning: Rust and HTML (when time allows).
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
