@@ -17,8 +17,6 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 For the MSc thesis I constructed a new, general EFT model for non-Abelian gauge theories with many (N_f > 6) fermions.
 It is an extension of ChPT with a light scalar particle using the most general form of coupling.
 
-I will have my final exam in 2026 January or February.
-
 ### 💾 Technical Skills
 - Bash
 - C/C++
@@ -44,7 +42,6 @@ I will have my final exam in 2026 January or February.
 - Quantum Field Theories (QED, QCD)
 - Topological Quantum Field Theories
 - Strong Field QED
-- QCD and non-perturbative QCD
 - Non-Abelian Gauge Theories
 - Effective Field Theories (e.g. ChPT, dChPT)
 - Abelian Gauge Theories
@@ -54,6 +51,7 @@ I will have my final exam in 2026 January or February.
 - Standard Model theory
 - Exactly Solvable Quantum Systems
 - Heavy Ion Physics
+- Monte Carlo event generators
 
 ### 🔰 Miscellaneous
 - 😄 Pronouns: he/him
@@ -66,7 +64,6 @@ I will have my final exam in 2026 January or February.
 ### 🎯 Other personal Interests
 - Writing & Worldbuilding (future book plans)
 - Gaming (World of Warships, WARNO, Civ VI, Paradox Interactive games, etc.)
-- [SCP Universe & lore](https://scp-wiki.wikidot.com/)
 - Computer Science
 - Philosophy
 - Psychology
