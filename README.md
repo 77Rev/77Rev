@@ -35,6 +35,7 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - 🇬🇧 English (C1)
 - 🇷🇺 Russian (beginner)
 - 🇩🇪 German (beginner)
+- 🇳🇱/🇧🇪 Dutch (beginner)
 
 ### 📡 Research Interests
 - Lattice Field Theories
