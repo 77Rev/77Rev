@@ -7,7 +7,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 
 ### 🚧 In progress
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
-- 🛡️ Learning cybersecurity: information security, threat intelligence, malware analysis, cryptography and network pentesting (when time allows).
+- 🛡️ Learning cybersecurity (when time allows).
 - 💻 Learning Rust (when time allows).
 
 ### 🔭 Educational background
