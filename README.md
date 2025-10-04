@@ -58,7 +58,6 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - 😄 Pronouns: he/him
 - ✒️ I have a STEM focused Discord server.
 - 💻 Currently I use Arch Linux, and I am also familiar with Alpine Linux and Debian based distros.
-- 📜 My plan for the near future is to create a TikTok & Odysee channel and post Physics, Maths and Linux related content.
 - 💬 You can ask me about Physics, Maths or Linux.
 - 🧲 Fun fact: When I was 14, I participated in a country level astronomy competition and finished 2nd.
 
