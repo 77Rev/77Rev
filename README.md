@@ -1,7 +1,7 @@
 # Welcome 👋
 
 ## 🌱 About me
-I'm a research assistant. My specialisation is mostly theoretical nuclear & particle physics.
+My specialisation is mostly theoretical nuclear & particle physics.
 
 Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 
