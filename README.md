@@ -9,6 +9,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity (when time allows).
 - 💻 Learning Rust (when time allows).
+- 🇷🇺🇯🇵 Studying Russian and Japanese.
 
 ### 🔭 Educational background
 - BSc in Physics | 2020-2023 | Thesis: Dynamics of Solvable Quantum Systems
@@ -22,7 +23,7 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - C/C++
 - Python
 - LaTeX
-- [Pythia8](https://pythia.org/) (in C++)
+- [Pythia8](https://pythia.org/)
 - [Rivet](https://rivet.hepforge.org/)
 - [Professor](https://professor.hepforge.org/)
 - Docker
