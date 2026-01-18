@@ -9,7 +9,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity (when time allows).
 - 💻 Learning Rust (when time allows).
-- 🇷🇺 Studying Russian
+- 🇷🇺 Studying Russian.
 - 🇯🇵 Studying Japanese.
 
 ### 🔭 Educational background
