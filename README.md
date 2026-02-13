@@ -8,7 +8,7 @@ Check out my Docker Hub repos [here](https://hub.docker.com/u/77rev)!
 ### 🚧 In progress
 - 🔬 Self-studying Lattice Field Theory and String Theory (when time allows).
 - 🛡️ Learning cybersecurity (when time allows).
-- 💻 Learning Rust (when time allows).
+- 💻 Learning OpenCL (when time allows).
 - 🇷🇺 Studying Russian.
 - 🇯🇵 Studying Japanese.
 
@@ -23,6 +23,7 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - Bash
 - C/C++
 - Python
+- OpenCL (beginner)
 - LaTeX
 - [Pythia8](https://pythia.org/)
 - [Rivet](https://rivet.hepforge.org/)
@@ -30,7 +31,6 @@ It is an extension of ChPT with a light scalar particle using the most general f
 - Docker
 - ROOT (in C++ framework)
 - Rust (beginner)
-- HTML (beginner)
 
 ### 📖 Languages
 - 🇭🇺 Hungarian (native)
